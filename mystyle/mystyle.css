@@ -1,0 +1,112 @@
+.topbar {
+    margin-top: -7px;
+    margin-bottom: -7px;
+    background-color: #1ba098 !important;
+}
+
+/*------navbar-----*/
+.navbar {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: 0rem;
+    background-color:#051622 !important;
+    width: 100%;
+}
+
+.navbar-brand img{
+    height: 36;     
+    
+}
+.navbar-nav li{
+    padding-right: .7rem;
+}
+.navbar-nav .nav-link{
+    color: white;
+    padding-right: .7rem;
+}
+/*----------end-----------*/
+
+.bg-black{
+    background-color: rgba(14, 14, 14, 1.00);
+}
+
+/*
+.carousel-caption{
+    top: 200px;
+}*/
+
+.bg-orange{
+    background-color: #f0644f;
+    color: aliceblue;
+    font-weight: 600;
+    text-align: center;
+}
+.m-right {
+    border: 2px solid #f0644f;
+    border-right: 2px solid white;
+}
+
+.underline {
+    width: 100px;
+    height: 2px;
+    background-color: orangered;
+}
+.bg-dark-grey{
+    background-color: #1F2833;
+}
+.bg-light-dark{
+    background-color: #0B0C10;
+}
+
+.media img{
+    max-width: 187px;
+    height: auto;
+}
+.underline-green{
+    width: 70px;
+    height: 2px;
+    background-color: lawngreen;
+}
+.underline-blue{
+    width: 70px;
+    height: 2px;
+    background-color: mediumblue;
+}
+.underline-black{
+    width: 70px;
+    height: 2px;
+    background-color: black;
+}
+
+.card img {
+    height: 177px;
+}
+.card-body{
+    text-align: center;
+}
+
+.blog .media img {
+    max-width: 200px;
+    height: auto;
+}
+
+/*--------carousel---------*/
+.carousel-item {
+    height: 500px;
+}
+.carousel-item img {
+    height: 500px;
+    object-fit: fill;
+}
+.carl {
+    top: 200px;
+
+}
+
+/*
+@media (hover: hover) {
+    img:hover {
+        background-image: url(/img/actiongames/game-5.jpg);
+    }
+}*/
